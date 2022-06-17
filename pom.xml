@@ -21,7 +21,7 @@
         <slf4j.version>1.7.7</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
         <beetlsql.version>2.10.30</beetlsql.version>
-        <fastjson.version>1.1.23</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <lang3.version>3.0</lang3.version>
         <json-lib.version>2.4</json-lib.version>
         <poi-ooxml.version>3.17</poi-ooxml.version>

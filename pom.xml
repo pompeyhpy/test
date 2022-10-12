@@ -25,7 +25,7 @@
         <lang3.version>3.0</lang3.version>
         <json-lib.version>2.4</json-lib.version>
         <poi-ooxml.version>3.17</poi-ooxml.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.10.0</shiro.version>
         <shiro.freemarker.tags>0.1</shiro.freemarker.tags>
         <lombok.version>1.18.0</lombok.version>
         <bitwalker.version>1.19</bitwalker.version>
